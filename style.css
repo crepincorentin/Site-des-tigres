@@ -578,7 +578,7 @@ and (max-device-width : 770px) {
     #header .in {
         padding-top: 30px;
         padding-bottom: 50px;
-        background: url(./images/logo-right.gif) no-repeat left 3% top -10px;
+        background: url(./images/logo.jpg) no-repeat left 3% top -10px;
         background-size: 100px 100px;
     }
 
@@ -615,7 +615,7 @@ and (max-device-width : 770px) {
     #headline .in {
         padding-top: 25%;
         padding-bottom: 0%;
-        background: url(./images/responsivebanner.jpg) no-repeat;
+        background: url(./images/tigre.jpg) no-repeat;
         height: 200px;
         background-size:cover;
         display: block;
@@ -792,7 +792,7 @@ and (max-device-width : 770px) {
         width: 29.2vw;
         height: 150px;
         vertical-align: top;
-        background: url(./images/fatiger.jpg) no-repeat;
+        background: url(./images/tigre.jpg) no-repeat;
         background-size: 29.2vw 130px;
     }
 
